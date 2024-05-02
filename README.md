@@ -61,7 +61,7 @@ python3 enough.py
 [🇱🇷] `25` MS
      `65` MBPS
 
-[🇫🇷  `35` MS
+[🇫🇷] `35` MS
      `15` KPBS
 
 </details>
